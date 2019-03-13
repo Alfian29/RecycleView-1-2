@@ -28,3 +28,7 @@
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/15.PNG?raw=true)
 
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/16.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1-HasilAwal.png?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1-HasilAkhir.png?raw=true)
