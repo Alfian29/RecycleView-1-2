@@ -9,7 +9,7 @@
 
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/5.PNG?raw=true)
 
-![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/6.PNG?raw=true)
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/6.JPG?raw=true)
 
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1/7.PNG?raw=true)
 
