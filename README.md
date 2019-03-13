@@ -32,3 +32,16 @@
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1-HasilAwal.png?raw=true)
 
 ![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV1-HasilAkhir.png?raw=true)
+
+# RecycleView-2
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/1.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/2.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/3.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/4.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/5.PNG?raw=true)
+
+![alt text](https://github.com/Alfian29/RecycleView-1-2/blob/master/RV2/6.PNG?raw=true)
